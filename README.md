@@ -1,0 +1,1 @@
+A menu-driven Employee Record Management System developed using Core Java and Object-Oriented Programming concepts. Supports adding, displaying, searching, updating, and deleting employee records, with input validation and employee count management.
